@@ -15,3 +15,5 @@ GitHubFlow оперирует следующими сущностями:
 
 ___
 by Ilya Loshkarev
+
+I wrote here something useless
